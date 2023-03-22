@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export default styled.main`
+export default styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,7 +23,7 @@ export default styled.main`
       border-radius: 10px;
     }
 
-    h3 {
+    h1 {
       margin-top: 15px;
       font-size: 20px;
       font-weight: 700;
