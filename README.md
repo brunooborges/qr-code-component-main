@@ -45,7 +45,7 @@ z
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://brunooborges.github.io/qr-code-component-main/)
+- Live Site URL: [(https://brunooborges.github.io/qr-code-component-main/)]
 
 ## My process
 
